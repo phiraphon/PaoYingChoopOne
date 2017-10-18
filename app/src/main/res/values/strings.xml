@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProjectOne</string>
+    <string name="ham">HAMMER</string>
+    <string name="Scis">SCISSORS</string>
+    <string name="pap">PAPER</string>
+    <string name="ran">RANDOM</string>
+</resources>
